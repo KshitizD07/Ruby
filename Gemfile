@@ -5,4 +5,4 @@ source "https://rubygems.org"
 gem 'tty-prompt'
 gem 'pastel'
 gem 'terminal-table'
-
+gem 'fiddle'
