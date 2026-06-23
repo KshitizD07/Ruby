@@ -2,25 +2,16 @@
 
 A beautiful, interactive, and colorful Command Line Interface (CLI) application built in Ruby to calculate your Body Mass Index (BMI) and track your history over time.
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-> **Note:** Replace the image below with your own actual terminal screenshot! Just save your screenshot as `screenshot.png` in the project folder.
+Here is a look at the CLI in action:
 
-![BMI Calculator Screenshot](screenshot1.png)
-![History Screenshot](screenshot2.png)
+**Calculating BMI**
+![BMI Calculation Output](screenshot1.png)
 
-*(You can also insert a code block simulating the look!)*
-```text
-==================================================
-     WELCOME TO THE PREMIUM BMI CALCULATOR!!     
-==================================================
+**Viewing BMI History**
+![BMI History Table](screenshot2.png)
 
-? What would you like to do? 
-  Calculate BMI
-  View History
-  View Classification Table
-  Exit
-```
 
 ## ✨ Features
 
